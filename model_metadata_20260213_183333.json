@@ -1,0 +1,25 @@
+{
+  "timestamp": "20260213_183333",
+  "dataset_size": 89741,
+  "total_tracks": 89741,
+  "total_artists": 31438,
+  "total_genres": 113,
+  "popularity_model_r2": 0.11964906747193582,
+  "genre_model_accuracy": 0.7217217217217218,
+  "features_used": [
+    "danceability",
+    "energy",
+    "key",
+    "loudness",
+    "mode",
+    "speechiness",
+    "acousticness",
+    "instrumentalness",
+    "liveness",
+    "valence",
+    "tempo",
+    "time_signature",
+    "duration_minutes",
+    "artist_count"
+  ]
+}
